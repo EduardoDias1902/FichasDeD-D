@@ -1,0 +1,28 @@
+========================================
+Personagem: ï»¿
+Raca: Humano   Classe: Bárbaro   Nivel: 1
+========================================
+
+ATRIBUTOS
+FOR: 16      DES: 15
+CON: 14      INT: 13
+SAB: 11      CAR:  9
+
+MODIFICADORES
+FOR: +3      DES: +2
+CON: +2      INT: +1
+SAB: +0      CAR: -1
+
+PONTOS DE VIDA: 14
+INICIATIVA: +2
+BONUS DE PROFICIENCIA: +2
+
+SALVAMENTOS: FOR, CON
+
+PERICIAS: Atletismo, Sobrevivencia
+
+IDIOMAS: Comum
+
+========================================
+Gerado em: 13/07/2026 16:14
+========================================
